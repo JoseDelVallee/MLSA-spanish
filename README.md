@@ -6,7 +6,7 @@ Este repositorio recopila algunas de las principales rutas de aprendizaje gratui
 
 ---
 > ⚠️ **Nota importante:**  
-> Después de entrar al curso, **asegúrate de hacer clic en el botón “Comenzar”** en la parte izquierda de la página. ([Paso 4](./img/cap45.png))
+> Después de entrar al curso, **asegúrate de hacer clic en el botón “Comenzar”** en la parte izquierda de la página. ([Paso 4](./img/cap45.jpg))
 > 
 > 🔒 **Si no haces clic en “Comenzar”, tu progreso no se guardará** y no podrás hacer seguimiento de tu avance ni compartirlo con tu equipo o comunidad.
 
